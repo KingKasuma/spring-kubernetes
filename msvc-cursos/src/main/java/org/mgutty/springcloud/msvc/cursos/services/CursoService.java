@@ -1,6 +1,6 @@
 package org.mgutty.springcloud.msvc.cursos.services;
 
-import org.mgutty.springcloud.msvc.cursos.entity.Curso;
+import org.mgutty.springcloud.msvc.cursos.models.entity.Curso;
 
 import java.util.List;
 import java.util.Optional;

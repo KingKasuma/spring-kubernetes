@@ -1,7 +1,7 @@
 package org.mgutty.springcloud.msvc.cursos.controllers;
 
 import jakarta.validation.Valid;
-import org.mgutty.springcloud.msvc.cursos.entity.Curso;
+import org.mgutty.springcloud.msvc.cursos.models.entity.Curso;
 import org.mgutty.springcloud.msvc.cursos.services.CursoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
